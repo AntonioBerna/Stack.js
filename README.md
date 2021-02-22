@@ -8,4 +8,4 @@ A simple remake of the Stack game from the company Ketchapp
 
 # Per maggiori informazioni
 
-Created By Antonio Bernardini Copyright© 2020
+Created By Antonio Bernardini Copyright© 2021
