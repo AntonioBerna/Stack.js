@@ -2,8 +2,7 @@
 A simple remake of the Stack game from the company Ketchapp
 
 <p align="center">
-  <img width="400" heigth="500" src="1.png">
-  <img width="400" heigth="500" src="2.png">
+  <img width="400" heigth="500" src="gif/1.gif">
 </p>
 
 # Per maggiori informazioni
