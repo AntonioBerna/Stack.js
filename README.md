@@ -7,4 +7,6 @@ A simple remake of the Stack game from the company Ketchapp
 
 # Per maggiori informazioni
 
+Youtube: [Clever Code](https://www.youtube.com/c/CleverCode)
+
 Created By Antonio Bernardini Copyright© 2021
